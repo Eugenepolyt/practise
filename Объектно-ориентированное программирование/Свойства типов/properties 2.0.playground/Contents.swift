@@ -53,7 +53,7 @@ struct FileDescription {
     
 }
 
-var file = FileDescription(filePath: "/Users/evgenijborisov/Desktop/XcodeProjects/skutarenko/Basics.playground", typeOfFile: .open, fileContent: ".")
+var file = FileDescription(filePath: "/Users/evgenijborisov/Desktop/XcodeProjects/practise/Basics.playground", typeOfFile: .open, fileContent: ".")
 
 file.nameOfFile
 file.packagePath
